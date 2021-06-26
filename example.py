@@ -12,7 +12,7 @@ memory_file = "shakespeare.pkl"
 speaker_name = "JULIET"
 GPT_name = "ROMEO"
 
-print("Welcome to GPT Chat! Load up your dataset")
+print("Welcome to GPT Chat!")
 print(f"You are chatting as {speaker_name}, and GPT is chatting as {GPT_name}.")
 
 context = []
